@@ -1,0 +1,4 @@
+.git
+__pycache__
+output_test/
+resnet34_cerberus/weights.tar
